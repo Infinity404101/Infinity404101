@@ -14,12 +14,12 @@ I am a Game Developer, who currently studying in uni
 - [Survive The Pit](https://github.com/1nfinity404/Project---Survive-The-Pit) - A game project for my A level Computer Science Exam
 
 ### Unreal Engine Developer (2022-2026)
-- [Mask Escape Simulation](https://infinity404101.itch.io/mask-escape-simulation) - A game for Global Game Jam
+- [Mask Escape Simulation](https://infinity404101.itch.io/mask-escape-simulation) - A game for Global Game Jam 2026
 
 ## 🛠️ Programming Language, Frameworks and Tools
 - Visual Basic - [Visual Studio 2022](https://visualstudio.microsoft.com)
 - Python - [PyCharm](https://www.jetbrains.com/pycharm/)
-- HTML - [Bootstraps](https://getbootstrap.com), [Flask](https://flask.palletsprojects.com/en/stable/)(know a bit)
+- HTML - [Bootstraps](https://getbootstrap.com), [Flask](https://flask.palletsprojects.com/en/stable/)(know a bit), [CSS](https://www.w3schools.com/css/default.asp)
 - C++ - [Unreal Engine](https://www.unrealengine.com/en-US) 
 
 ## 🎯 Goals for Future
