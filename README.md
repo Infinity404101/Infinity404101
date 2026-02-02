@@ -1,4 +1,5 @@
 This is a profile
+
 ## 👋 About Me
 I am a Game Developer, who currently studying in uni
 - 🌱 I’m currently learning Game Development
@@ -7,11 +8,14 @@ I am a Game Developer, who currently studying in uni
 ## 📫 Contact Info
 - Discord: 1nfinity404
 - itch.io: [Infinity404](https://infinity404101.itch.io)
+
 ## 💼 Projects
-**Visual Basic Developer (2022-2024)**
+### Visual Basic Developer (2022-2024)
 - [Survive The Pit](https://github.com/1nfinity404/Project---Survive-The-Pit) - A game project for my A level Computer Science Exam
-**Unreal Engine Developer (2022-2026)**
+
+### Unreal Engine Developer (2022-2026)
 - [Mask Escape Simulation](https://infinity404101.itch.io/mask-escape-simulation) - A game for Global Game Jam
+
 ## 🛠️ Programming Language, Frameworks and Tools
 - Visual Basic - [Visual Studio 2022](https://visualstudio.microsoft.com)
 - Python - [PyCharm](https://www.jetbrains.com/pycharm/)
