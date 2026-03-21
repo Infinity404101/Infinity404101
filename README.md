@@ -6,7 +6,7 @@ I am a Game Developer, who currently studying in uni
 - 👯 I’m looking to collaborate on creating games (maybe)
 
 ## 📫 Contact Info
-- itch.io: [Infinity404101](https://infinity404101.itch.io)
+
 
 ## 💼 Projects
 ### Visual Basic Developer (2022-2024)
@@ -25,19 +25,3 @@ I am a Game Developer, who currently studying in uni
 ## 🎯 Goals for Future
 - Able to code GDScript - [Godot](https://godotengine.org)
 - Able to create a Visual Novel - [Ren'Py](https://www.renpy.org)
-
-<!--
-**1nfinity404/1nfinity404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 👯 I’m looking to collaborate on creating games
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
